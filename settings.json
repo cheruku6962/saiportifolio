@@ -1,0 +1,13 @@
+{
+    "search.useGlobalIgnoreFiles": false,
+    "search.useParentIgnoreFiles": false,
+    "git.verboseCommit": false,
+    "git.terminalGitEditor": false,
+    "githubIssues.issueCompletions.enabled": true,
+    "githubIssues.userCompletions.enabled": true,
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true
+}
